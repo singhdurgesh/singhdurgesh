@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Durgesh
-- 👀 I’m interested in solving new problems
-- 🌱 I’m currently learning ruby on rails
-- 💞️ I’m looking to collaborate on cool projects on ruby on rails
+- 👀 I’m interested in challenging problems that no one is able to solve.
+- 🌱 
+- 💞️ I’m looking to collaborate projects on authentication, crypto, security application.
 - 📫 How to reach me: singhdurgesh403@gmail.com
 
 <!---
