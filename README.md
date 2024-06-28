@@ -1,8 +1,32 @@
-- 👋 Hi, I’m Durgesh
-- 👀 I’m interested in challenging problems that no one is able to solve.
-- 🌱 
-- 💞️ I’m looking to collaborate projects on authentication, crypto, security application.
-- 📫 How to reach me: singhdurgesh403@gmail.com
+# Welcome to My GitHub Profile
+
+Hi, I'm Durgesh Singh, a Sr Software Engineer with a passion for backend development and building scalable systems. Welcome to my GitHub profile! Here you'll find a variety of projects that I've worked on, ranging from real-time chat applications to user authentication systems.
+
+## About Me
+- 🔧 **Expertise:** Backend Development, Architect, API Optimization, System Design, Microservices
+- 🎓 **Education:** B.Tech from Indian Institue of Technology(IIT) Roorkee
+- 🏆 **Achievements:** 
+  - ACM-ICPC Regionals 2018 Participant
+  - JEE Advanced 2016 (AIR 4182)
+  - AIEEE (Rank 265)
+- 📍 **Location:** Bangalore, India
+
+## Skills
+- **Languages:** Golang, Ruby on Rails (RoR), Python, C++
+- **Databases:** Postgres, DynamoDB
+- **Tools & Technologies:** Docker, Kubernetes, Jenkins
+- **Interests:** Problem-solving, Web Development, Database Management, Agile Methodologies, DevOps
+
+## Featured Projects
+- **[Rednote](https://github.com/singhdurgesh/rednote):** A Go-based backend project providing user authentication, job/task processing, and a structured deployment pipeline.
+
+## Contact Me
+Feel free to reach out to me for collaboration, questions, or just to connect!
+
+- 📧 Email: [singhdurgesh403@gmail.com](mailto:singhdurgesh403@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/durg404/](https://www.linkedin.com/in/durg404/)
+
+Thanks for visiting my profile!
 
 <!---
 singhdurgesh/singhdurgesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
